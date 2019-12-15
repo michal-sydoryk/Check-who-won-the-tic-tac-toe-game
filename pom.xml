@@ -41,7 +41,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass><!-- enter path to main class --></mainClass>
+                            <mainClass>com.epam.app.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
